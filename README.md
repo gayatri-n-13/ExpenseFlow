@@ -38,7 +38,7 @@ A **Spring Boot Microservices** project for tracking expenses, managing categori
 
 ## 🛠️ Tech Stack
 
-`Java` • `Spring Boot` • `Spring Cloud` • `JWT` • `Spring Security` • `Eureka` • `MySQL` • `Maven`
+`Java` • `Spring Boot` • `Spring Cloud` • `JWT` • `Spring Security` • `Eureka` • `PostgresSQL` • `Maven`
 
 ## 🚀 Run It
 
