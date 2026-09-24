@@ -1,4 +1,4 @@
-# 💸 ExpenseFlow
+# ExpenseFlow
 
 > **Track your expenses before your expenses track you.** 🗿
 
